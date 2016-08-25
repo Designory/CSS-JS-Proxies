@@ -1,5 +1,5 @@
 {
-  "name": "css-js-proxy-builder",
+  "name": "css-js-proxies",
   "version": "1.0.0",
   "description": "Build css and js files that load the actual css and js dynamically from the Mizer (or any) server during the QA process.",
   "main": "lib/entry.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.designory.com:Merck_Components/css-js-proxy-builder.git"
+    "url": "git@github.com:Designory/CSS-JS-Proxies.git"
   },
   "author": "Kevin Middlesworth",
   "license": "ISC"
