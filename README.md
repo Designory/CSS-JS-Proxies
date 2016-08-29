@@ -3,7 +3,7 @@
 ##Example Use:
 ```
 
-const proxyBuilder = require('')
+const proxyBuilder = require('css-js-proxies');
 
 proxyBuilder({
 		directory: 'path-to-file-location',
