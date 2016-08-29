@@ -1,6 +1,6 @@
 {
   "name": "css-js-proxies",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Build css and js files that load the actual css and js dynamically from the Mizer (or any) server during the QA process.",
   "main": "lib/entry.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "url": "git@github.com:Designory/CSS-JS-Proxies.git"
   },
   "author": "Kevin Middlesworth",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.7.4"
+  }
 }
